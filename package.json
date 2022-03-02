@@ -1,7 +1,7 @@
 {
     "name": "calendar-api",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "ex-app.js",
     "scripts": {
         "dev": "nodemon index.js",
         "start": "node ex-app.js"
